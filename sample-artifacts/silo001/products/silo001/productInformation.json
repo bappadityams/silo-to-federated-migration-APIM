@@ -1,0 +1,9 @@
+{
+  "properties": {
+    "displayName": "silo001",
+    "description": "silo001",
+    "approvalRequired": false,
+    "state": "published",
+    "subscriptionRequired": true
+  }
+}
